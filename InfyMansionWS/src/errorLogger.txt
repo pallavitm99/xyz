@@ -1,0 +1,1389 @@
+TypeError: collection.getUserCollection is not a function
+    at Object.exports.setupDb (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:669:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\app.js:15:12
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at cors (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\cors\lib\index.js:188:7)
+TypeError: collection.getUserCollection is not a function
+    at Object.exports.setupDb (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:669:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\app.js:15:12
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at cors (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\cors\lib\index.js:188:7)
+TypeError: collection.getUserCollection is not a function
+    at Object.exports.setupDb (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:669:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\app.js:15:12
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at cors (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\cors\lib\index.js:188:7)
+TypeError: collection.getUserCollection is not a function
+    at Object.exports.setupDb (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:669:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\app.js:15:12
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at cors (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\cors\lib\index.js:188:7)
+TypeError: collection.getRoleCollection is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:672:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: collection.getRoleCollection is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:672:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: collection.getRoleCollection is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:672:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: collection.getRoleCollection is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:672:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: collection.getRoleCollection is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\setupdb.js:672:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ValidationError: Property validation failed: description: dont write description overlimit
+    at model.Document.invalidate (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2729:32)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2541:17
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\schematype.js:1255:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+ValidationError: Property validation failed: description: dont write description overlimit
+    at model.Document.invalidate (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2729:32)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2541:17
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\schematype.js:1255:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+ValidationError: Property validation failed: description: dont write description overlimit
+    at model.Document.invalidate (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2729:32)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2541:17
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\schematype.js:1255:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+ValidationError: Property validation failed: description: dont write description overlimit
+    at model.Document.invalidate (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2729:32)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\document.js:2541:17
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongoose\lib\schematype.js:1255:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: InfyDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+ReferenceError: Userobj is not defined
+    at Object.userModel.addUser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\userModel.js:57:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:59:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ReferenceError: Userobj is not defined
+    at Object.userModel.addUser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\userModel.js:57:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:59:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ReferenceError: Userobj is not defined
+    at Object.userModel.addUser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\userModel.js:57:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:59:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ReferenceError: Userobj is not defined
+    at Object.userModel.addUser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\userModel.js:57:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:59:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ReferenceError: userObj is not defined
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:50:28
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: Userobj is not defined
+    at Object.userModel.addUser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\userModel.js:57:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:59:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ReferenceError: Userobj is not defined
+    at Object.userModel.addUser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\model\userModel.js:57:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:59:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+MongoError: E11000 duplicate key error collection: InfyDb.User index: emailId_1 dup key: { emailId: "h@gmail.com" }
+    at Function.create (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\utils.js:130:22)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\operations\common_functions.js:258:39
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Illegal arguments: undefined, string
+    at _async (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\bcryptjs\dist\bcrypt.js:286:46)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\bcryptjs\dist\bcrypt.js:307:17
+    at new Promise (<anonymous>)
+    at Object.bcrypt.compare (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\bcryptjs\dist\bcrypt.js:306:20)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:13:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user already exists with this emailId and contact Number
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:44:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Illegal arguments: undefined, string
+    at _async (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\bcryptjs\dist\bcrypt.js:286:46)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\bcryptjs\dist\bcrypt.js:307:17
+    at new Promise (<anonymous>)
+    at Object.bcrypt.compare (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\bcryptjs\dist\bcrypt.js:306:20)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:20:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Password is Incorrect
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:25:33
+Error: Password is Incorrect
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:25:33
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Password is Incorrect
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:25:33
+Error: Password is Incorrect
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:25:33
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: buyerId_1 dup key: { buyerId: "U1002" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: buyerId_1 dup key: { buyerId: "U1002" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: buyerId_1 dup key: { buyerId: "U1002" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: buyerId_1 dup key: { buyerId: "U1002" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: buyerId_1 dup key: { buyerId: "U1002" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.sell is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:114:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.sell is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:114:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.sell is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:114:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:208:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:210:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:210:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:210:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:210:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Contact Number does not match 
+    at Object.Validator.validateContactNo (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\utilities\validator.js:26:17)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:50:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:210:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.viewProperty is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:70:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:224:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+Error: user not available!! Please register
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:14:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:224:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: You have no items wishlisted
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\service\user.js:224:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+BulkWriteError: E11000 duplicate key error collection: MansionDb.Property index: sellerId_1 dup key: { sellerId: "U1001" }
+    at OrderedBulkOperation.handleWriteError (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:1334:9)
+    at resultHandler (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\bulk\common.js:561:23)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+TypeError: userService.getAllUsers is not a function
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:87:17
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\mohammad.chanda\Documents\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)

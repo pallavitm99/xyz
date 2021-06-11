@@ -1,0 +1,4 @@
+Thu Jun 10 2021 12:23:02 GMT+0530 (India Standard Time) GET /user/search
+Thu Jun 10 2021 12:23:02 GMT+0530 (India Standard Time) GET /user/search
+Thu Jun 10 2021 12:23:02 GMT+0530 (India Standard Time) POST /user/register
+Thu Jun 10 2021 12:23:02 GMT+0530 (India Standard Time) POST /user/register

@@ -1,0 +1,124 @@
+TypeError: userdb.searchLocation is not a function
+    at Object.infyMansionService.search (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\service\user.js:76:19)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:39:17
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\utilities\reqLogger.js:8:14
+    at FSReqCallback.oncomplete (node:fs:184:23)
+TypeError: userdb.searchLocation is not a function
+    at Object.infyMansionService.search (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\service\user.js:76:19)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:39:17
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\utilities\reqLogger.js:8:14
+    at FSReqCallback.oncomplete (node:fs:184:23)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:51:17
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\utilities\reqLogger.js:8:14
+    at FSReqCallback.oncomplete (node:fs:184:23)
+TypeError: userdb.findUser is not a function
+    at Object.infyMansionService.addDetails (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\service\user.js:40:19)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\routes\userRouter.js:51:17
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\pallavi.m02\Downloads\Infy-mansion\Infosys-Mansion\InfyMansionWS\src\utilities\reqLogger.js:8:14
+    at FSReqCallback.oncomplete (node:fs:184:23)
