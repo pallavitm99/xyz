@@ -1,0 +1,187 @@
+
+<!-- <img src="../../../assets/house3.jpg" alt="Avatar of a House"> -->
+<!-- <div class="row" *ngIf="view else ">  -->
+
+    <div class="nav-container container-fluid">
+        <mat-sidenav-container>
+            <mat-sidenav mode="side" opened={{side}} class="example-sidenav">
+                <br><br>
+                <mat-form-field appearance="outline"><br>
+                    <input matInput type="text" placeholder="Enter the Area" [(ngModel)]="area" (change)="filter_func()">
+                    <mat-icon matSuffix>search</mat-icon>
+                </mat-form-field><br>
+                
+                <label>Property For:</label>
+                <br><br>
+                <mat-radio-group aria-labelledby="Property For:" [(ngModel)]="sale_rent" (change)="filter_func()">
+                    <mat-radio-button value="Sale">Sale</mat-radio-button>
+                 <mat-radio-button value="Rent">Rent</mat-radio-button>
+                    <br><br>
+                    <mat-radio-button value="Both">Both</mat-radio-button><br>
+                </mat-radio-group><br>
+                
+                <label>Property Type:</label>
+                <br><br>
+                <mat-radio-group aria-labelledby="Property Type:" [(ngModel)]="prop_type" (change)="filter_func()">
+                    <mat-radio-button value="House">House</mat-radio-button>
+                    <mat-radio-button value="Apartment">Apartment</mat-radio-button><br><br>
+                    <mat-radio-button value="Both">Both</mat-radio-button> 
+                </mat-radio-group><br><br>
+                
+
+                <mat-form-field appearance="outline">
+                    <input matInput placeholder="Bedrooms:" [(ngModel)]="bedroom" (change)="filter_func()" type="number" min="0" oninput="validity.valid||(value='')"
+                        #id5>
+                    <mat-icon matSuffix>bed</mat-icon>
+                </mat-form-field><br>
+
+                <mat-form-field appearance="outline">
+                    <input matInput placeholder="Bathrooms:" [(ngModel)]="bathroom" (change)="filter_func()"  min="0" oninput="validity.valid||(value='')" 
+                        type="number">
+                    <mat-icon matSuffix>bathtub</mat-icon>
+                </mat-form-field><br>
+
+                <mat-form-field appearance="outline">
+                    <input matInput placeholder="Min Amount:" [(ngModel)]="min_amt" (change)="filter_func()" min="0" oninput="validity.valid||(value='')" #id5
+                        type="number">
+                </mat-form-field><br>
+
+                <mat-form-field appearance="outline">
+                    <input matInput placeholder="Max Amount:" [(ngModel)]="max_amt" (change)="filter_func()" min="0" oninput="validity.valid||(value='')" #id5
+                        type="number">
+                </mat-form-field><br>
+
+                <div class="example-button-row">
+                    <button type="reset" mat-raised-button class="btn-primary" color="primary" (click)="clear_filters()" matTooltip="Click here to clear filters"
+                        matTooltipPosition="right" matTooltipClass="mat-tooltip">Clear Filters</button>
+                </div>
+                <br><br>
+            </mat-sidenav>
+
+            <mat-sidenav-content> 
+
+                <!-- <div class="loading-indicator">
+                    <mat-spinner *ngIf=showspinner></mat-spinner>
+                </div> -->
+                <br><br>
+
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-md-4" *ngFor="let p of propertyArr">
+                            <mat-card style="background-color:rgb(220, 239, 245)">
+                                <mat-card-header>
+                                    <div mat-card-avatar class="example-header-image">
+                                        <img mat-card-avatar src="{{p.imageUrls}}" alt="Avatar of a House">
+                                    </div>
+                                    <mat-card-title>
+
+                                        {{p.price | currency :'INR':'symbol'}}
+
+
+                                         <button mat-icon-button matSuffix (click)="click(p.propertyId,p.status_wishlist)" (click)="p.status_wishlist=!p.status_wishlist"
+                                              *ngIf= "userName;else see" [attr.aria-label]="'wishlist icon'" [attr.aria-pressed]="clicked">
+                                              <mat-icon color="warn">{{p.status_wishlist ? 'favorite' : 'favorite_border'}}</mat-icon> </button> 
+                                       
+                                        
+                                        <ng-template #see>
+                                            <button mat-icon-button matSuffix (click)="access('add this property to wishlist')" [attr.aria-label]="'wishlist icon'"
+                                             [attr.aria-pressed]="clicked">
+                                                <mat-icon color="warn">favorite_border</mat-icon>
+                                            </button> 
+                                        </ng-template>
+                                    </mat-card-title>
+
+                                    <mat-card-subtitle>For {{p.propertyType}}</mat-card-subtitle>
+                                </mat-card-header>
+
+                                <div class="inner">
+                                    <img mat-card-image src="{{p.imageUrls}}" alt="Photo of a House" height="150px" width="200px" class="rcorners2">
+                                </div>
+
+                                <mat-card-content>
+
+
+                                    <div class="row">
+
+                                        <div class="col-md-6">{{p.propertyArea}}sq.ft</div>
+                                        <div class="col-md-6">{{p.noOfBedrooms}}Bhk{{p.buildingType}}</div>
+                                    </div>
+
+                                    <div class="row">
+
+                                        <div class="col-md-6">{{p.furnishing}}</div>
+                                        <div class="col-md-6">{{p.availability}}</div>
+
+                                    </div>
+
+
+
+                                    <mat-card-actions>
+                                        <ng-template #owner>
+                                            <span> OwnerName: {{owner_name}}</span>
+                                            <br>
+                                            <span>Contact Number: {{owner_contact}}</span>
+                                            <br>
+                                            <span>Email-Id: {{owner_emailId}}</span>
+                                        </ng-template>
+
+                                        
+
+                                        <div class="center">
+                                            <button mat-flat-button class="btn btn-primary" *ngIf="userLoggedIn; else go" layout-align="center" 
+                                            (click)="redirectfunc(p.propertyId)"
+                                                matTooltip="Click here to View details" matTooltipPosition="below"
+                                                matTooltipClass="mat-tooltip">View Details</button>
+                                            <br>
+                                        </div>
+
+                                        <div class="center">
+                                            <button mat-stroked-button color="primary" layout-align="center" 
+                                            (click)="openDialog(owner,p)" matTooltip="Click here to Contact Owner"
+                                                matTooltipPosition="right">Contact Owner</button>
+                                            <br>
+                                            <br>
+                                        </div>
+
+                                        <ng-template #go>
+                                            <div class="center">
+                                                <button mat-flat-button color="primary" (click)="snackView()" matTooltip="Click here to View Details"
+                                                 matTooltipPosition="below"
+                                                matTooltipClass="mat-tooltip">View Details</button><br>   
+                                            </div>
+                                        </ng-template>
+                                    </mat-card-actions>
+                                </mat-card-content>
+                            </mat-card>
+
+                            
+                            <mat-card class="example-card card-shadow" *ngIf="newCard">
+
+                            </mat-card>
+
+                            <br>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            
+           
+              <button type="button" mat-raised-button  color="primary" (click)="side_show()">
+               Filters
+              </button>
+          
+
+                <br>
+                <br>
+            </mat-sidenav-content>
+        </mat-sidenav-container>
+    </div>
+<!-- </div> -->
+<!-- <br>
+<br> -->
+
+
+
+
+

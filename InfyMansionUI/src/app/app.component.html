@@ -1,0 +1,158 @@
+ <mat-toolbar class="header fixed-top toolbar navbar navbar-expand-md new text-black">
+    <button mat-icon-button #navbarToggler class="navbar-toggler" type="button" data-toggle="collapse"
+       data-target="#navbarContent" aria-controls="navbarContent" (click)="isShown= !isShown"
+       [attr.aria-expanded]="isShown" aria-label="Toggle navigation">
+       <mat-icon>Home</mat-icon>
+     </button>  
+     <a type="link" mat-button class="navbar-brand" >RELATY</a> 
+    <br>
+    <div class="collapse navbar-collapse" [ngClass]="{'show':isShown}" id="navbarContent">
+      <a type="link"  mat-button class="nav-link" [routerLink]="['/buy']" matTooltip="View Properties"
+        matTooltipPosition="below" matTooltipClass="mat-tooltip">Buy</a>
+        <a type="link" mat-button class="nav-link" *ngIf="uLoggedIn ;else notentered" [routerLink]="['/sell']"
+        matTooltip="Add property"  matTooltipPosition="below" matTooltipClass="mat-tooltip">Sell</a>
+        <ng-template #notentered>
+            <a type="link" mat-button class="nav-link" (click)="viewSnacksell()" matTooltip="Add Property"
+            matTooltipPosition="below"  matTooltipClass="mat-tooltip">Sell</a>
+        </ng-template>
+        <span class="space"></span>
+        
+
+        <span *ngIf="uname;else verify" class="welcome-msg">Good to see you  {{uname}}</span>
+        <ng-template #verify>
+            <span class="nav-link">Welcome Guest</span>
+        </ng-template>
+
+        <a type="link" mat-button matTooltip="wishlist" class="nav-link" *ngIf="uLoggedIn;else star"
+        [routerLink]="['/wishlist']" matTooltip="Wishlisted Property" matTooltipPosition="below"
+        matTooltipClass="mat-tooltip">
+        <mat-icon>bookmark</mat-icon>
+    </a><br>
+    <ng-template #star>
+        <a mat-button matTooltip="profile" class="nav-link" (click)="viewSnackwishlist()" matTooltip="Your Favourite List" 
+        matTooltipPosition="below" matTooltipClass="mat-tooltip">
+        <mat-icon>bookmark</mat-icon>
+    </a>
+    </ng-template>
+
+
+
+    <a  type="link" matTooltip="profile" class="nav-link" *ngIf="uLoggedIn;else visit"
+    [routerLink]="['/profile']" matTooltip="user profile" matTooltipPosition="below"
+    matTooltipClass="mat-tooltip">
+    <mat-icon>person</mat-icon>
+</a><br>
+<ng-template #visit>
+    <a type="link"  matTooltip="profile" class="nav-link" (click)="viewSnackprofile()" matTooltip="User Profile"
+    matTooltipPosition="below" matTooltipClass="mat-tooltip">
+    <mat-icon>person</mat-icon>
+</a>
+</ng-template>
+  <a mat-button type="link"  class="nav-link" (click)="login()" *ngIf="!uname"  [routerLink]="['/login']" 
+   matTooltip="Login" matTooltipPosition="below" matTooltipClass="mat-tooltip">Sign In</a>
+  <a mat-button type="link" *ngIf="uname" class="nav-link" (click)="signout()">Sign Out</a> 
+      <br>
+ 
+        </div>
+    </mat-toolbar>   
+    <!-- <div class ="flex-wrapper">
+        <br>
+        <router-outlet class="page bottom -margin"></router-outlet>
+        <mat-toolbar class="fixed-bottom toolbar navbar navbar-expand-md bg-dark text-white">
+            <button #navbarToggler class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarContent" aria-controls="navbarContent" (click)="isShown=!isShown"
+            [attr.aria-expanded]="isShown" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button> 
+        </mat-toolbar>
+    </div> -->
+
+    <div class="background-image">
+  
+            <img src='../assets/Homepage.jpg' alt='backgroun image'>
+            <h1 class="text-on-image">Change Starts Here!</h1>
+        </div>
+        <div><h2 class="desc">Whether you’re buying, selling or renting, we can help you move forward.</h2></div>
+           
+        <mat-card class="buy-card">
+                <mat-card-header>
+                  <div mat-card-avatar class="example-header-image"></div>
+                  <h2 class="card-name1">Buy a home</h2>
+                  <!-- <mat-card-title>Shiba Inu</mat-card-title> -->
+                  <!-- <mat-card-subtitle>Dog Breed</mat-card-subtitle> -->
+                 
+                </mat-card-header>
+                <img mat-card-image src="../assets/buy.png" alt="Buy Image">
+                <mat-card-content>
+                 
+                  <p>
+                   Find a place with great experience and  the most listings,including things you wont find any where else.
+                  </p>
+                </mat-card-content>
+                <mat-card-actions>
+                  <button mat-raised-button color="primary" text-align="center">Search homes</button>
+                  
+                </mat-card-actions>
+              </mat-card>
+              <mat-card class="sell-card">
+                <mat-card-header>
+                  <div mat-card-avatar class="example-header-image"></div>
+                  <!-- <mat-card-title>Shiba Inu</mat-card-title>
+                  <mat-card-subtitle>Dog Breed</mat-card-subtitle> -->
+                  <h2 class="card-name2">Sell a home</h2>
+                </mat-card-header>
+                <img mat-card-image src="../assets/buy1.png" alt="sell image">
+                <mat-card-content>
+                   
+                  <p>
+                    Sell your property with confidence. Realty is making it simpler and safer to sell your home and move forward. We can help you navigate a successfull sale.
+                  </p>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-raised-button color="primary">See your options</button>
+                </mat-card-actions>
+              </mat-card>
+                
+
+            
+            
+
+   
+  
+
+    <!-- <div class="flex-wrapper">
+        <br>
+        <router-outlet class="page top-margin "></router-outlet>
+        <mat-toolbar class="fixed-bottom toolbar navbar-expand-md text-black new"><br>
+            <a tpye="link" >www.infymansions.com</a>
+            <span class="space"></span>
+            <mat-icon>info</mat-icon>
+        </mat-toolbar>
+    </div>
+    -->
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+<!-- <app-sellerprofile></app-sellerprofile> -->
+
+
+
+
+
+
+
+<!--  
+ <app-signup-form></app-signup-form>
+ <app-register></app-register>
+ <app-login></app-login> -->

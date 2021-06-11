@@ -1,0 +1,26 @@
+/* 
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+ .container{
+   margin-top: 150px;
+ }
+ .snackbar-position{
+   position:absolute;
+   top:80px;
+ }
+
+   */
+
+   .full-width{
+     width: 100%;
+   }
+
+   mat-card{
+     max-width: 450px;
+     margin: auto;
+     margin-top: 60px;
+   }

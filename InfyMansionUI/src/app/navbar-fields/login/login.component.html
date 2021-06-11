@@ -1,0 +1,63 @@
+<div  class="loginCard">
+    <form [formGroup] = "loginForm" class="my-form">
+        <mat-card class="login-card">
+            <mat-card-header>
+                <mat-card-title class="text-primary"> 
+                    <h2>Login</h2>
+                </mat-card-title>
+            </mat-card-header>
+            <mat-card-content>
+                    <div>
+                        <mat-form-field appearance="fill" class="full-width" >
+                            <mat-label>Enter you Email Id</mat-label>
+                            <input matInput type="email"  formControlName = "emailId"  placeholder="name@domain.com">
+                            <!-- <mat-error id = "customEmailAddresError" *ngIf = "loginForm.controls.emailAddress.invalid && loginForm.controls.emailAddress.dirty"> -->
+                                <mat-error *ngIf="loginForm.controls.emailId.errors?.required">
+                                    Field Required
+                              </mat-error>
+                              <mat-error *ngIf = "loginForm.controls.emailId.errors?.pattern " class="text-danger" id="emailAddressError">
+                                      Enter valid ContactNo/Email Id
+                              </mat-error>
+
+                            <!-- </mat-error> -->
+                            
+                        </mat-form-field>
+                    </div>
+                    
+                    <br><br>
+    
+                    <div >
+                        <mat-form-field appearance="fill" class="full-width">
+                            <mat-label>Enter your Password</mat-label>
+                            <input matInput type="password" class="text-control" formControlName = "userPassword" >
+                            <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide" tabindex="5">
+                                <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+                            </button>
+                            <mat-error *ngIf="loginForm.controls.userPassword.errors?.required">
+                                Field Required
+                          </mat-error>
+                          <mat-error *ngIf = "loginForm.controls.userPassword.errors?.pattern" class="text-danger" id="userPasswordError">
+                            Password must be between 8-20 characters
+                          </mat-error>
+                        </mat-form-field>
+                    </div>
+    
+                </mat-card-content>
+    
+            <mat-card-actions>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+             <button (click)="login()" (keyup.enter) = "login()" [disabled]="loginForm.invalid" class="btn-block" tabindex="4" mat-raised-button color="primary">Login</button>
+             &nbsp; &nbsp; &nbsp;
+             <button class="btn-block" tabindex="4" mat-raised-button (click)="navigateSearchPage()" color="warn">Back</button>
+            </mat-card-actions>
+            <div >
+                <a  class="text-center" (click)="navigaterRegisterPage()" class="text-danger">Click here to register</a>
+            </div>
+
+            <div *ngIf = "errorMessage !=null" class="text-danger">
+                {{errorMessage}}
+            </div>
+        </mat-card>
+        <!-- (click)="navigaterRegisterPage()" (keyup) = "navigaterRegisterPage()" -->
+    </form>
+</div>
